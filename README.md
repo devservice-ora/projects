@@ -127,4 +127,3 @@ Autobiographical context, instructional units, book reviews, and cross-departmen
 
 ## 🛠️ Usage
 This comprehensive catalog compiles technical and educational competencies into a unified master index. It is designed to act as an archival table of contents for professional portfolio presentations, course curriculum audits, and academic review boards.
-"""
