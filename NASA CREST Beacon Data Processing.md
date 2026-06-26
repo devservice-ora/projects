@@ -13,7 +13,20 @@ This project was recognized with the prestigious **NASA Ames Honor Award** for i
 ![NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/Award-NASA%20Ames%20Honor%20Award.jpg)
 
 ---
+## 👥 Project Contributors
+![Team Members](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Team%20Members.jpg)
 
+### Faculty Advisors & Leadership
+* 👨‍🏫 **Jim Pham** (Team Leader / Faculty Advisor)
+* 👨‍🏫 **David Topham**
+
+### Team Members
+* 🧑‍💻 **Bruce Davis**
+* 🧑‍💻 **Edward Anthonysamy**
+* 🧑‍💻 **Gopalakrishnan Veeraragavan**
+* 🧑‍💻 **Ryan Edge** (Santa Clara University)
+
+---
 ## 🏗️ Key Architectural Pillars
 
 * **Multi-Tier Telemetry Ingestion:** Engineered to separate the high-throughput ingestion layer from decoding pipelines and the persistent cataloging database.
