@@ -10,7 +10,7 @@ The platform exposes open, interoperable APIs allowing external developers, scho
 
 This project was recognized with the prestigious **NASA Ames Honor Award** for its exceptional contribution to collaborative aerospace data collection and open systems architecture.
 
-![NASA Ames Honor Award](https://github.com/devservice-ora/presentations/raw/main/Award-NASA%20Ames%20Honor%20Award.jpg)
+![NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/Award-NASA%20Ames%20Honor%20Award.jpg)
 
 ---
 
