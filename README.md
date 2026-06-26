@@ -14,7 +14,7 @@ Institutional projects, cloud infrastructure frameworks, and technical specifica
 * [ `NASA-Beacon Data Processing System-Architecture`](https://github.com/devservice-ora/projects/blob/main/2008-NASA-Beacon%20Data%20Processing%20System-Architecture.pdf)
 * [ `NASA-CREST-BPS-Specifications`](https://github.com/devservice-ora/projects/blob/main/2008-NASA-CREST-BPS-Specifications.pdf)
 * [ `NASA-CREST-BPS-Application-Deployment`](https://github.com/devservice-ora/projects/blob/main/2010-NASA-CREST-BPS-Application-Deployment.pdf)
-* [ `NASA-CREST-BPS-team-members`](https://github.com/devservice-ora/projects/blob/main/2010-NASA-CREST-BPS-team-members.pdf)
+* [ `NASA-CREST-BPS-NASA Ames Honor Award`](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md)
 * [ `Overview of Development Platforms`](https://github.com/devservice-ora/projects/blob/main/2011-Overview%20of%20Development%20Platforms.pdf)
 * [ `Technical Portfolio_ Enterprise Architecture, Cloud Infrastructure & Systems Engineering`](https://github.com/devservice-ora/projects/blob/main/Technical%20Portfolio_%20Enterprise%20Architecture,%20Cloud%20Infrastructure%20%26%20Systems%20Engineering.pdf)
 
