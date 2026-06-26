@@ -17,7 +17,7 @@ This project was recognized with the prestigious **NASA Ames Honor Award** for i
 ![Team Members](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Team%20Members.jpg)
 
 ### Faculty Advisors & Leadership
-* 👨‍🏫 **Jim Pham** (Team Leader / Faculty Advisor)
+* 👨‍🏫 **Dr. Jim Pham** (Team Leader / Faculty Advisor)
 * 👨‍🏫 **David Topham**
 
 ### Team Members
