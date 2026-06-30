@@ -8,7 +8,7 @@ This repository is a comprehensive digital archive created by **[Jim D. Pham](ht
 
 ### 1. Enterprise Architecture & Systems Engineering
 Institutional projects, cloud infrastructure frameworks, and technical specifications engineered for federal and corporate enterprises.
-* [ `XML Web Services-Specifications`](https://github.com/devservice-ora/projects/blob/main/2004-XML%20Web%20Services-Specifications.pdf)
+* [ `XML Web Services-Specifications`](https://github.com/devservice-ora/projects/blob/main/XML%20Web%20Services-Specifications.pdf)
 * [ `Bank Account Manager-Guidelines`](https://github.com/devservice-ora/projects/blob/main/2006-Bank%20Account%20Manager-Guidelines.pdf)
 * [ `Conference Registration-Management System-proprosal`](https://github.com/devservice-ora/projects/blob/main/2007-Conference%20Registration-Management%20System-proprosal.pdf)
 * [ `NASA-Beacon Data Processing System-Architecture`](https://github.com/devservice-ora/projects/blob/main/2008-NASA-Beacon%20Data%20Processing%20System-Architecture.pdf)
