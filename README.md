@@ -20,6 +20,7 @@ Institutional projects, cloud infrastructure frameworks, and technical specifica
 
 ### 2. Computer Science Curriculum & Core Pedagogy
 Instructional materials, lecture guidelines, and core reference documentation covering foundational algorithms, data structures, and programming concepts.
+* [ `Data Structures Lab Manual`](https://github.com/devservice-ora/projects/blob/main/CS-124-Data%20Structures%20Lab%20Manual.pdf)
 * [ `Understanding-Network Devices`](https://github.com/devservice-ora/projects/blob/main/2016-02-25-Understanding-Network%20Devices.pdf)
 * [ `Understanding-Data Structures`](https://github.com/devservice-ora/projects/blob/main/2016-Understanding-Data%20Structures.pdf)
 * [ `Understanding Sorting`](https://github.com/devservice-ora/projects/blob/main/2017-3-29-Understanding%20Sorting.pdf)
