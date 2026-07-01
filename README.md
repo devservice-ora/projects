@@ -8,6 +8,7 @@ This repository is a comprehensive digital archive created by **[Jim D. Pham](ht
 
 ### 1. Enterprise Architecture & Systems Engineering
 Institutional projects, cloud infrastructure frameworks, and technical specifications engineered for federal and corporate enterprises.
+* [ `Web Services Client Application`](https://github.com/devservice-ora/projects/blob/main/Web%20Services%20Client%20Application.pdf)
 * [ `XML Web Services-Specifications`](https://github.com/devservice-ora/projects/blob/main/XML%20Web%20Services-Specifications.pdf)
 * [ `Bank Account Manager-Guidelines`](https://github.com/devservice-ora/projects/blob/main/2006-Bank%20Account%20Manager-Guidelines.pdf)
 * [ `Conference Registration-Management System-proprosal`](https://github.com/devservice-ora/projects/blob/main/2007-Conference%20Registration-Management%20System-proprosal.pdf)
@@ -16,6 +17,7 @@ Institutional projects, cloud infrastructure frameworks, and technical specifica
 * [ `NASA-CREST-BPS-Application-Deployment`](https://github.com/devservice-ora/projects/blob/main/2010-NASA-CREST-BPS-Application-Deployment.pdf)
 * [ `NASA-CREST-BPS-NASA Ames Honor Award`](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md)
 * [ `Overview of Development Platforms`](https://github.com/devservice-ora/projects/blob/main/2011-Overview%20of%20Development%20Platforms.pdf)
+* https://github.com/devservice-ora/projects/blob/main/Web%20Services%20Client%20Application.pdf
 * [ `Collection of Professional Projects`](https://github.com/devservice-ora/projects/blob/main/Professional%20Project%20Inventory.md)
 
 ### 2. Computer Science Curriculum & Core Pedagogy
