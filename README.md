@@ -107,7 +107,7 @@ Statistical modeling documentation, standard deviation calculations, and complia
 * [ `Quantitative Research Study`](https://github.com/devservice-ora/projects/blob/main/Quantitative%20Research%20Study.pdf)
 * [ `Quantitative Research Z-score`](https://github.com/devservice-ora/projects/blob/main/Quantitative%20Research%20Z-score.pdf)
 
-### 10. Instructional Design, Practicum & Biography
+### 10. Instructional Design & Practicum
 Autobiographical context, instructional units, book reviews, and cross-departmental training strategies.
 * [ `Book Review - Computer Geek to Cult Icon`](https://github.com/devservice-ora/projects/blob/main/Book%20Review%20-%20Computer%20Geek%20to%20Cult%20Icon.pdf)
 * [ `Case Study of Project Cornerstone`](https://github.com/devservice-ora/projects/blob/main/Case%20Study%20of%20Project%20Cornerstone.pdf)
@@ -117,7 +117,6 @@ Autobiographical context, instructional units, book reviews, and cross-departmen
 * [ `Electronic Communication`](https://github.com/devservice-ora/projects/blob/main/Electronic%20Communication.pdf)
 * [ `Instructional Design - Staff Turnover`](https://github.com/devservice-ora/projects/blob/main/Instructional%20Design%20-%20Staff%20Turnover.pdf)
 * [ `Interview with an Expert - Where is Technology Headed`](https://github.com/devservice-ora/projects/blob/main/Interview%20with%20an%20Expert%20-%20Where%20is%20Technology%20Headed.pdf)
-* [ `Jim Pham - Autobiography - 2006`](https://github.com/devservice-ora/projects/blob/main/Jim%20Pham%20-%20Autobiography%20-%202006.pdf)
 * [ `Making Cooperative Learning Work`](https://github.com/devservice-ora/projects/blob/main/Making%20Cooperative%20Learning%20Work.pdf)
 * [ `Mid-Life Career - Continuous Learning`](https://github.com/devservice-ora/projects/blob/main/Mid-Life%20Career%20-%20Continuous%20Learning.pdf)
 * [ `Promoting transfer of learning for both the technical support staff and faculty`](https://github.com/devservice-ora/projects/blob/main/Promoting%20transfer%20of%20learning%20for%20both%20the%20technical%20support%20staff%20and%20faculty.pdf)
