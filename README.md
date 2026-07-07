@@ -1,6 +1,6 @@
 # Academic & Technical Portfolio Repository
 
-This repository is a comprehensive digital archive created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, showcasing two decades of professional work in Educational Philosophy, Instructional Design, Enterprise Software Engineering, and Computer Science Higher Education.
+This **[GitHub 2026](https://github.com/devservice-ora)** project is a comprehensive digital repository created by **[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**, showcasing two decades of professional work in Educational Philosophy, Instructional Design, Enterprise Software Engineering, and Computer Science Higher Education.
 
 ---
 
