@@ -1,5 +1,7 @@
 # NASA/CREST Beacon Data Processing System Award
 
+**[Jim D. Pham](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md)**
+
 The Beacon Data Processing System is a multi-tier telemetry ingestion and decoding platform developed by a visionary student engineering team at Ohlone College in collaboration with NASA/CREST. The system is specifically engineered to receive, decode, and catalog public beacon telemetry data submitted by ground stations and amateur radio operators tracking the PharmaSat spacecraft.
 
 The platform exposes open, interoperable APIs allowing external developers, schools, and NASA to programmatically leverage the system's core business logic.
