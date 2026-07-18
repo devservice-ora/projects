@@ -12,13 +12,13 @@ The platform exposes open, interoperable APIs allowing external developers, scho
 
 This project was recognized with the prestigious **NASA Ames Honor Award** for its exceptional contribution to collaborative aerospace data collection and open systems architecture.
 
-See also [Beacon Data Processing System Specifications](https://github.com/devservice-ora/projects/blob/main/2008-NASA-CREST-BPS-Specifications.pdf)
+See also [Beacon Data Processing System Specifications](https://github.com/devservice-ora/projects/blob/main/NASA-CREST-BPS-Specifications-2008.pdf)
 
-![NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/NASA%20Ames%20Honor%20Award.jpg)
+![NASA Ames Honor Award](https://github.com/devservice-ora/projects/blob/main/NASA%20Ames%20Honor%20Award-2010.jpg)
 
 ---
 ## 👥 Project Contributors
-![Team Members](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Team%20Members.jpg)
+![Team Members](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Team%20Members-2010.jpg)
 
 ### Faculty Advisors & Leadership
 * 👨‍🏫 **Dr. Jim Pham** (Team Leader / Faculty Advisor)
