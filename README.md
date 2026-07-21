@@ -55,12 +55,16 @@ Resources, syllabi, lab manuals, and student project portfolios representing cou
 ### 3. Professional Enterprise & Engineering Systems
 Functional specifications, development guidelines, and training materials reflecting enterprise software development (including Oracle/PeopleSoft platforms).
 
+* **Project Nanodify, Inc., A Green Energy Company (2010):**
+    * [`Project Nanodify, Inc. - Technology Overview`](https://github.com/devservice-ora/projects/blob/main/Nanodify_Technology_Overview-1-12-2011.pdf) — *Project Nanodify, Technology Overview.*
+    * [`Project Nanodify, Inc. - Business Plan`](https://github.com/devservice-ora/projects/blob/main/Nanodify-Business-Plan-2010.pdf) — *Project Nanodify, Business Plan.*
+      
 * **Systems Engineering & Specs:**
     * [`Web Services-Specifications.pdf`](https://github.com/devservice-ora/projects/blob/main/Web%20Services-Specifications.pdf) — *WSDL schemas, SOAP bindings, and endpoint communication definitions.*
     * [`Web Services Client Application.pdf`](https://github.com/devservice-ora/projects/blob/main/Web%20Services%20Client%20Application.pdf) — *Reference client architectures for modern SOA implementation.*
     * [`Conference Registration-Management System-2007.pdf`](https://github.com/devservice-ora/projects/blob/main/Conference%20Registration-Management%20System-2007.pdf) — *Full-lifecycle design specifications for an enterprise-level registration system.*
     * [`Bank Account Manager-Guidelines-2006.pdf`](https://github.com/devservice-ora/projects/blob/main/Bank%20Account%20Manager-Guidelines-2006.pdf) — *Architectural guidelines for transactional banking application layers.*
-    * [`Project Nanodify, 2010`](https://github.com/devservice-ora/projects/blob/main/Nanodify_Technology_Overview-1-12-2011.pdf) — *Project Nanodify, A Green Energy Company.*
+    
 * **Knowledge Transfer & Lists:**
     * [`DataMover Knowledge Transfer-2007.pdf`](https://github.com/devservice-ora/projects/blob/main/DataMover%20Knowledge%20Transfer-2007.pdf) — *Enterprise training guide on database script execution and platform migrations.*
     * [`Professional Project Inventory.md`](https://github.com/devservice-ora/projects/blob/main/Professional%20Project%20Inventory.md) — *Comprehensive summary and timeline of principal engineering projects.*    
