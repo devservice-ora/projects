@@ -63,6 +63,7 @@ Functional specifications, development guidelines, and training materials reflec
 * **Knowledge Transfer & Lists:**
     * [`DataMover Knowledge Transfer-2007.pdf`](https://github.com/devservice-ora/projects/blob/main/DataMover%20Knowledge%20Transfer-2007.pdf) — *Enterprise training guide on database script execution and platform migrations.*
     * [`Professional Project Inventory.md`](https://github.com/devservice-ora/projects/blob/main/Professional%20Project%20Inventory.md) — *Comprehensive summary and timeline of principal engineering projects.*
+    * [`Project Nanodify`](https://github.com/devservice-ora/projects/blob/main/Nanodify_Technology_Overview-1-12-2011.pdf) — *Project Nanodify, A Green Energy Company.*
 
 ---
 
