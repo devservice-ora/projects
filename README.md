@@ -25,10 +25,9 @@ This section houses technical specifications, architectural designs, and team ac
     * [`NASA-CREST-BPS-Specifications-2008.pdf`](https://github.com/devservice-ora/projects/blob/main/NASA-CREST-BPS-Specifications-2008.pdf) — *Functional specifications and physical data representations.*
 * **Applications & Team Overviews:**
     * [`NASA-CREST-BPS-Application-2010.pdf`](https://github.com/devservice-ora/projects/blob/main/NASA-CREST-BPS-Application-2010.pdf) — *Deployment specs and operational software configurations.*
-    * [`NASA CREST Team Members-2010.jpg`](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Team%20Members-2010.jpg) — *Archival photo commemorating the NASA/CREST student and advisor team.*
-* **Awards & Documentation:**
-    * [`Beacon Data Processing System Team Award.md`](https://github.com/devservice-ora/projects/blob/main/Beacon%20Data%20Processing%20System%20Team%20Award.md) — *Summary of the award-winning team's contributions.*
-    * [`NASA CREST Beacon Data Processing System Award.md`](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md) — *Detailed context of the NASA Ames Honor Award collaboration.*
+    * [`NASA-CREST Team Members-2010.jpg`](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Team%20Members-2010.jpg) — *Archival photo commemorating the NASA/CREST student and advisor team.*
+* **Awards:**
+    * [`NASA-CREST Beacon Data Processing System Award.md`](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md) — *Detailed context of the NASA Ames Honor Award collaboration.*
 
 ---
 
