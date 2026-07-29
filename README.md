@@ -75,14 +75,14 @@ Functional specifications, development guidelines, and training materials reflec
 Certificates and awards honoring high performance in software engineering, long-standing academic contributions, and civic emergency response partnerships.
 
 * **Academic Service & Excellence:**
-    * [`AdjunctServiceAward-15-years-2013.jpg`](https://github.com/devservice-ora/projects/blob/main/AdjunctServiceAward-15-years-2013.jpg) — *Ohlone College recognition for 15 years of dedicated adjunct teaching.*
-    * [`Award-OC-Shinning Star in Success-2016.jpg`](https://github.com/devservice-ora/projects/blob/main/Award-OC-Shinning%20Star%20in%20Success-2016.jpg) — *Ohlone College "Shining Star in Success" Award for teaching excellence.*
-    * [`LetterOfAppreciation-EVC-Rol-Morris-1998.jpg`](https://github.com/devservice-ora/projects/blob/main/LetterOfAppreciation-EVC-Rol-Morris-1998.jpg) — *Evergreen Valley College Appreciation Letter from Dean Rol Morris.*
+    * [Adjunct Service Award 15 Years (2013)](https://github.com/devservice-ora/projects/blob/main/Award-Ohlone-College-15-Years_Service_2013.md) — *Ohlone College recognition for 15 years of dedicated adjunct teaching.*
+    * [Ohlone College Shinning Star In Success (2016)](https://github.com/devservice-ora/projects/blob/main/Award-Shining-Star-in-Success-2016.md) — *Ohlone College "Shining Star in Success" Award for teaching excellence.*
+    * [Letter Of Appreciation EVC Rol Morris (1998)](https://github.com/devservice-ora/projects/blob/main/Letter-of-Appreciation-EVC-1988.md) — *Evergreen Valley College Appreciation Letter from Dean Rol Morris.*
 * **Corporate & Engineering Awards:**
-    * [`Award-PSFT-PeopleSoft8HeroAward-2000.jpg`](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-PeopleSoft8HeroAward-2000.jpg) — *PeopleSoft 8 "Hero Award" for outstanding system development.*
-    * [`Award-PSFT-OutstandingContributor-2004.jpg`](https://github.com/devservice-ora/projects/blob/main/Award-PSFT-OutstandingContributor-2004.jpg) — *PeopleSoft Outstanding Contributor recognition.*
-    * [`Award-Lockheed-Wingspread-1996.jpg`](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Wingspread-1996.jpg) — *Lockheed Martin Wingspread Award for technical excellence.*
-    * [`NASA Ames Honor Award-2010.jpg`](https://github.com/devservice-ora/projects/blob/main/NASA%20Ames%20Honor%20Award-2010.jpg) — *NASA Ames Group Achievement Honor Award celebrating the Beacon Data Processing System.*
+    * [PSFT PeopleSoft8 Hero Award (2000)](https://github.com/devservice-ora/projects/blob/main/Award-PeopleSoft8-Hero-2000.md) — *PeopleSoft 8 "Hero Award" for outstanding system development.*
+    * [PSFT Outstanding Contributor (2004)](https://github.com/devservice-ora/projects/blob/main/Award-PeopleSoft-Outstanding-Contributor-2004.md) — *PeopleSoft Outstanding Contributor recognition.*
+    * [Lockheed Wingspread Award (1996)](https://github.com/devservice-ora/projects/blob/main/Award-Lockheed-Martin-Wingspread-1996.md) — *Lockheed Martin Wingspread Award for technical excellence.*
+    * [NASA Ames Honor Award (2010)](https://github.com/devservice-ora/projects/blob/main/NASA%20CREST%20Beacon%20Data%20Processing%20System%20Award.md) — *NASA Ames Group Achievement Honor Award celebrating the Beacon Data Processing System.*
 
 ---
 
