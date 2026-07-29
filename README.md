@@ -8,14 +8,20 @@ This **[GitHub](https://github.com/devservice-ora)** project, *2026* was created
 
 The files have been systematically cleaned up, deduplicated of noise, and categorized into four core domains:
 
-1. [NASA CREST & Beacon Data Processing System (BPS)](#1-nasa-crest--beacon-data-processing-system-bps)
-2. [Academic Coursework & Instructional Design](#2-academic-coursework--instructional-design)
-3. [Professional Enterprise & Engineering Systems](#3-professional-enterprise--engineering-systems)
-4. [Awards, Recognitions & Service Milestones](#4-awards-recognitions--service-milestones)
+1. [Train of Thought Synthesis (TOTS)]([#1-train-of-thought-synthesis-tots))
+2. [NASA CREST & Beacon Data Processing System (BPS)](#2-nasa-crest--beacon-data-processing-system-bps)
+3. [Academic Coursework & Instructional Design](#3-academic-coursework--instructional-design)
+4. [Professional Enterprise & Engineering Systems](#4-professional-enterprise--engineering-systems)
+5. [Awards, Recognitions & Service Milestones](#5-awards-recognitions--service-milestones)
 
 ---
 
-### 1. NASA CREST & Beacon Data Processing System (BPS)
+### 1. Train of Thought Synthesis (TOTS)
+This section includes projects associated with the TOTS learning model.
+
+* [Project www.totsllc.com](http://www.totsllc.com/) — Using the TOTS learning model as a conceptual framework, the website *totsllc.com* was developed from scratch in collaboration with AI in less than one day.
+
+### 2. NASA CREST & Beacon Data Processing System (BPS)
 This section houses technical specifications, architectural designs, and team acknowledgments for the **Beacon Data Processing System (BPS)** developed in collaboration with NASA/CREST for satellite data processing.
 
 * **System Architecture & Specifications:**
@@ -31,7 +37,7 @@ This section houses technical specifications, architectural designs, and team ac
 
 ---
 
-### 2. Academic Coursework & Instructional Design
+### 3. Academic Coursework & Instructional Design
 Resources, syllabi, lab manuals, and student project portfolios representing courses in C++, Data Structures, Algorithms, and Software Engineering.
 
 * **Course Manuals & Architectural Labs:**
@@ -52,7 +58,7 @@ Resources, syllabi, lab manuals, and student project portfolios representing cou
 
 ---
 
-### 3. Professional Enterprise & Engineering Systems
+### 4. Professional Enterprise & Engineering Systems
 Functional specifications, development guidelines, and training materials reflecting enterprise software development (including Oracle/PeopleSoft platforms).
 
 * **Project Nanodify, Inc., A Green Energy Company (2010):**
@@ -71,7 +77,7 @@ Functional specifications, development guidelines, and training materials reflec
 
 ---
 
-### 4. Awards, Recognitions & Service Milestones
+### 5. Awards, Recognitions & Service Milestones
 Certificates and awards honoring high performance in software engineering, long-standing academic contributions, and civic emergency response partnerships.
 
 * **Academic Service & Excellence:**
