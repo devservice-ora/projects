@@ -8,7 +8,7 @@ This **[GitHub](https://github.com/devservice-ora)** project, *2026* was created
 
 The files have been systematically cleaned up, deduplicated of noise, and categorized into four core domains:
 
-1. [Train of Thought Synthesis (TOTS)]([#1-train-of-thought-synthesis-tots))
+1. [Train of Thought Synthesis (TOTS)]([#1-train-of-thought-synthesis-tots)
 2. [NASA CREST & Beacon Data Processing System (BPS)](#2-nasa-crest--beacon-data-processing-system-bps)
 3. [Academic Coursework & Instructional Design](#3-academic-coursework--instructional-design)
 4. [Professional Enterprise & Engineering Systems](#4-professional-enterprise--engineering-systems)
