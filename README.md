@@ -21,6 +21,7 @@ This section includes projects associated with the **TOTS** learning model.
 
 * [Project www.totsllc.com (2026)](http://www.totsllc.com/) — *Using the TOTS as a conceptual framework, this platform (totsllc.com) was developed from scratch, domain hosting was set up, and it was professionally deployed in under one day.*
 * [Project GitHub (2026)](https://github.com/devservice-ora/AI/blob/main/My%20Professional%20Portfolio.md) — *A compilation of professional portfolios, academic accomplishments, and experiences gathered over the years.*
+* [YenTours Travel Agency (2026)](http://totsllc.com/clients/yentours/) — *YenTours Travel Agency is making history as the very first customer to launch the innovative TOTS method!*
 
 ### 2. NASA CREST & Beacon Data Processing System (BPS)
 This section houses technical specifications, architectural designs, and team acknowledgments for the **Beacon Data Processing System (BPS)** developed in collaboration with NASA/CREST for satellite data processing.
